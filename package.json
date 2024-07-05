@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-03-html/",
+    "build": "vite build --base=/109_html-css_Polina-goit/",
     "preview": "vite preview"
   },
   "devDependencies": {
